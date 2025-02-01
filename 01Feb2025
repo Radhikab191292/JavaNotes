@@ -1,0 +1,48 @@
+wrapper class is an object class that encapsulates the primitive data types,
+Autoboxing:primmitive->objects
+Unboxing:objects->primmitives
+printf we can use  format identifiers too.
+Ordinal method in ENUM: provode numbers to the values from 0,1,2,3..
+Enum types can not extend the classes if it has to extend then it should implememt the class'
+Enum cannot have modifiers
+✔️ Enum constructors are always private (even if not specified).
+✔️ You cannot create an enum instance with new.
+✔️ You can use constructors to assign values to enum constants.
+DEEP COPY:
+objects are same but references are different
+SHALOW COPY
+Objects same reference same
+
+    int arr[] = new int [5];
+    System.out.print(arr);
+     ans: classname@hashcode in hexadecimal form
+
+
+4. Which of these is an incorrect Statement?
+a) It is necessary to use new operator to initialize an array
+
+5. Which of these is necessary to specify at time of array initialization?
+a) Row
+
+int a[], b;
+int []c, d;
+c) ‘b’ is int variable; ‘d’ is int array
+
+    Object[] names = new String[3];
+    names[0] = new Integer(0);
+
+    because this array stores only the strings noy integers
+b) ArrayStoreException
+
+7. How to copy contents of array?
+a) System.arrayCopy()
+
+
+
+
+
+
+
+
+
+
